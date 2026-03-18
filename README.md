@@ -1,4 +1,5 @@
 📊 Netflix Data Analysis Dashboard (Excel Project)
+
 🔍 Overview
 
 This project focuses on analyzing Netflix user data to uncover meaningful insights related to viewer behavior, content preferences, subscription trends, and customer satisfaction.
@@ -150,6 +151,7 @@ Data Storytelling
 Business Insight Generation
 
 📷 Dashboard Preview
+
 <img width="1425" height="807" alt="netflix-analysis" src="https://github.com/user-attachments/assets/02299bd2-d8e3-4c9d-82fd-0844dd0955a0" />
 
 🤝 Connect With Me
